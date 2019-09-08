@@ -1,4 +1,4 @@
-# TestVroom (Parkinson Patient Driving Simulator)
+# VR Driving Simulator For Parkinson Patient 
 =================================================================
 ## Project Overview
 We created a 3D driving simulator using Unity3D so patients could drive around and receive a score based on their performance. We built a city and
