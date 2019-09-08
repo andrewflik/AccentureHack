@@ -41,18 +41,5 @@ may also be used as a safe environment for the patient to practice driving and a
 help some patients accept that Parkinson’s is affecting their lives.
 
 
-
-```
-UCSD ECE Design Competition 2019
-=================================
- Team Members
-=================================
-Anson Lee
-Chiao J Wang
-Christian Lay-Geng
-Jigyasaa Sood
-Vincent Wu
-```
-
-
+Email - deveshrajput978@gmail.com
 
